@@ -1,6 +1,6 @@
 # Demo-1
 
-This is a sample project created during Edunet Foundation training.
+This is a sample project created during <B> Edunet Foundation training</B>.
 
 ## Features
 
